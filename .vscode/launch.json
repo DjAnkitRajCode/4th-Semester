@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch mat",
+            "request": "launch",
+            "mainClass": "mat",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch College",
+            "request": "launch",
+            "mainClass": "College",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab5_Q3",
+            "request": "launch",
+            "mainClass": "Lab5_Q3",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab5_Q5",
+            "request": "launch",
+            "mainClass": "Lab5_Q5",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Lab5_Q6",
+            "request": "launch",
+            "mainClass": "Lab5_Q6",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch P11_Q1",
+            "request": "launch",
+            "mainClass": "P11_Q1",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1",
+            "request": "launch",
+            "mainClass": "Q1",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q2",
+            "request": "launch",
+            "mainClass": "Q2",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q3",
+            "request": "launch",
+            "mainClass": "Q3",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q4",
+            "request": "launch",
+            "mainClass": "Q4",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q5",
+            "request": "launch",
+            "mainClass": "Q5",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q6",
+            "request": "launch",
+            "mainClass": "Q6",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sales",
+            "request": "launch",
+            "mainClass": "Sales",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch add",
+            "request": "launch",
+            "mainClass": "add",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch day_switch_case",
+            "request": "launch",
+            "mainClass": "day_switch_case",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch five",
+            "request": "launch",
+            "mainClass": "five",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch index",
+            "request": "launch",
+            "mainClass": "index",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrom_input",
+            "request": "launch",
+            "mainClass": "palindrom_input",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch seven",
+            "request": "launch",
+            "mainClass": "seven",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch six",
+            "request": "launch",
+            "mainClass": "six",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch two",
+            "request": "launch",
+            "mainClass": "two",
+            "projectName": "4th semester_2273240a"
+        },
+        {
+            "type": "java",
+            "name": "Launch woodenbox",
+            "request": "launch",
+            "mainClass": "woodenbox",
+            "projectName": "4th semester_2273240a"
+        }
+    ]
+}
